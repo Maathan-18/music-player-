@@ -10,3 +10,5 @@ the player includes
 (.) shuffle 🔀 
 (.) volume slider
 (.) track slider
+visit
+https://maathan-18.github.io/music-player-/
